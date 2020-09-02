@@ -1,9 +1,10 @@
 # :gear: C2LEARN
 
-  Curso sobre linguagem C.
+  Curso sobre linguagem C.<br>
   Visite meus [**outros trabalhos**](https://github.com/Ratarca/ROCKSTAR-RATARCA) se conseguir claro!
   
   **PS: SÓ ACEITAREI CÓDIGOS DE RESOLUÇÃO DE LISTA NESTE REPOSITORIO AS LEITURAS SÃO FEITAS POR MIM**
+
 
 TOPICOS|
 ------------ |
@@ -22,5 +23,6 @@ TOPICOS|
 A1 - [Review](nothing)|
 A2 - [Exercicios](nothing)|
 A3 - [Resoluções](nothing) |
+A4 - [Notas de outros cursos](nothing) |
 
 ## Bibliografia :book:
